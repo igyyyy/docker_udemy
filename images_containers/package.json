@@ -1,0 +1,23 @@
+{
+  "name": "docker_udemy",
+  "version": "1.0.0",
+  "description": "Este repositório contém arquivos e projetos realizados durante meu estudo em Docker. cada pasta corresponde a uma aula/prática diferente. O objetivo é consolidar o aprendizado e construir um portfólio técnico.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igyyyy/docker_udemy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igyyyy/docker_udemy/issues"
+  },
+  "homepage": "https://github.com/igyyyy/docker_udemy#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
